@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-dxlab",
+  "version": "0.0.4",
+  "description": "Shareable ESLint configuration for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": "4.x",
+    "eslint-config-airbnb-base": "11.x",
+    "eslint-plugin-import": "2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slnsw/eslint-config-dxlab.git"
+  },
+  "author": "Kaho Cheung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slnsw/eslint-config-dxlab/issues"
+  },
+  "homepage": "https://github.com/slnsw/eslint-config-dxlab#readme"
+}
