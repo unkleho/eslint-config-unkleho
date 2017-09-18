@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-dxlab",
-  "version": "0.0.4",
+  "name": "eslint-config-unkleho",
+  "version": "0.0.1",
   "description": "Shareable ESLint configuration for Javascript",
   "main": "index.js",
   "scripts": {
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slnsw/eslint-config-dxlab.git"
+    "url": "git+https://github.com/unkleho/eslint-config-unkleho.git"
   },
   "author": "Kaho Cheung",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/slnsw/eslint-config-dxlab/issues"
+    "url": "https://github.com/unkleho/eslint-config-unkleho/issues"
   },
-  "homepage": "https://github.com/slnsw/eslint-config-dxlab#readme"
+  "homepage": "https://github.com/unkleho/eslint-config-unkleho#readme"
 }
